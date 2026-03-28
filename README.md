@@ -10,7 +10,7 @@ Which departments and roles have higher attrition
 How salary and job satisfaction impact employee retention
 
 **📂 Dataset**
-Total Employees: 10,000
+Total Employees: **10,000**
 Includes: Age, Department, Job Role, Salary, Attrition, Satisfaction Level
 
 **⚙️ Tools & Techniques Used**
