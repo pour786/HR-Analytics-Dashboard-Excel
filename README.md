@@ -50,28 +50,27 @@ VBA buttons (Refresh, Full Screen)
 
 **📌 Conclusion**
 This dashboard helps HR teams identify risk areas and improve employee retention strategies.
+## 📸 Dashboard Preview
 
-## 📷 Dashboard Preview
-### 🔹 Final Dashboard
-![Dashboard](Dashbord HR.png)
+ (![Final Dashboard](Dashbord%20HR.png))
 
-## 📷 Data Analysis
+## 📊 Data Analysis
+
 ### 🔹 Pivot Table Analysis
-![Analysis](Analysis data HR.png)
+![Analysis](Analysis-data-HR.png)
 
-## 📷 Data Analysis
-### 🔹 Pivot Table Analysis
-![Analysis](Analysis data HR 2.png)
+### 🔹 Pivot Table Analysis 2
+![Analysis 2](Analysis-Data-HR 2.png)
 
-## 📷 Supporting and Cleaning Data
+
+## 🧹 Supporting and Cleaning Data
+
 ### 🔹 Helper Data & Calculations
-![Helper Data](Helping Data HR.png)
+![Helper Data](HelpingDataHR.png)
 
-## 📷 Raw Data
-### 🔹 Original Dataset
-![Raw Data](Raw Data Hr.png)
 
----
+## 📂 Raw Data
+![Raw Data](RawDataHr.png)
 
 ## 🎥 Project Demo Video
 ### 🔹 Dashboard Working Demo
