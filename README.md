@@ -57,20 +57,20 @@ This dashboard helps HR teams identify risk areas and improve employee retention
 ## 📊 Data Analysis
 
 ### 🔹 Pivot Table Analysis
-![Analysis](Analysis-data-HR.png)
+![Analysis](Analysis%20data%20HR.png)
 
 ### 🔹 Pivot Table Analysis 2
-![Analysis 2](Analysis-Data-HR 2.png)
+![Analysis 2](Analysis%20Data%20HR%202.png)
 
 
 ## 🧹 Supporting and Cleaning Data
 
 ### 🔹 Helper Data & Calculations
-![Helper Data](HelpingDataHR.png)
+![Helper Data](Helping%20Data%20HR.png)
 
 
 ## 📂 Raw Data
-![Raw Data](RawDataHr.png)
+![Raw Data](Raw%20Data%20Hr.png)
 
 ## 🎥 Project Demo Video
 ### 🔹 Dashboard Working Demo
