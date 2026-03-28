@@ -47,5 +47,35 @@ Attrition by Gender
 Interactive slicers (Age, Department, Job Role, Gender)
 KPI cards (Total Employees, Attrition Rate, Avg Salary)
 VBA buttons (Refresh, Full Screen)
-📌 Conclusion
+
+**📌 Conclusion**
 This dashboard helps HR teams identify risk areas and improve employee retention strategies.
+
+## 📷 Dashboard Preview
+### 🔹 Final Dashboard
+![Dashboard](Dashbord HR.png)
+
+## 📷 Data Analysis
+### 🔹 Pivot Table Analysis
+![Analysis](Analysis data HR.png)
+
+## 📷 Data Analysis
+### 🔹 Pivot Table Analysis
+![Analysis](Analysis data HR 2.png)
+
+## 📷 Supporting and Cleaning Data
+### 🔹 Helper Data & Calculations
+![Helper Data](Helping Data HR.png)
+
+## 📷 Raw Data
+### 🔹 Original Dataset
+![Raw Data](Raw Data Hr.png)
+
+---
+
+## 🎥 Project Demo Video
+### 🔹 Dashboard Working Demo
+
+[▶️ Watch Video](PASTE_YOUR_VIDEO_LINK_HERE)
+
+
